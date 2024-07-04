@@ -22,7 +22,7 @@ body {
 
 body.dark {
   --background-color: #181818;
-  --text-color: #f0f2f5;
+  --text-color: black;
   --container-bg-color: #333;
   --button-bg-color: #90caf9;
   --button-hover-bg-color: #72b1e5;
